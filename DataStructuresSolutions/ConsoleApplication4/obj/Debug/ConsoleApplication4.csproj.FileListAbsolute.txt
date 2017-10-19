@@ -1,0 +1,9 @@
+c:\users\scientist-ns\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\scientist-ns\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\scientist-ns\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\scientist-ns\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\scientist-ns\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\scientist-ns\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\scientist-ns\Documents\Visual Studio 2015\Projects\DataStructuresSolutions\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\scientist-ns\Documents\Visual Studio 2015\Projects\DataStructuresSolutions\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\scientist-ns\Documents\Visual Studio 2015\Projects\DataStructuresSolutions\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
